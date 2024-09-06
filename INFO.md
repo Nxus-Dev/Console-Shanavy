@@ -1,5 +1,4 @@
 # Console-Shanavy
-Info on how to join the shanavy minecraft server.
 
 1. Open minecraft from your console's library
 
@@ -17,12 +16,12 @@ Info on how to join the shanavy minecraft server.
 
 8. Return to the friends tab
 
-9. Under joinable friends there should be a option to join 'Join To Open Server List' once opened enter in the ip and port.
+9. Under joinable friends there should be a option to join 'Join To Open Server List' once opened enter in the ip (Shanavy.mc.gg) and the port (25588).
 
 10. If you have any issues please contact nxus_dev on discord
 
-WARNING
+# WARNING
 
 If you are inactive for 7 days you will be unadded and will need to go over the process again.
 
-WARNING
+# WARNING
